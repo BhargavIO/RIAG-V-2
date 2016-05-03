@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1024px" height="962px" viewBox="0 0 1024 962" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>SIngle Image Upload@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SIngle-Image-Upload">
+            <g id="_440192664" transform="translate(30.000000, 27.000000)">
+                <path d="M65.2690984,64.818572 C64.6620785,64.2411237 64.6620785,63.8080375 65.1534756,63.288334 C67.8995182,60.227858 70.1830695,56.7054233 71.8596008,52.8942645 C72.1197522,52.230199 72.9002065,52.1147093 73.4205093,52.72103 C77.467309,56.9075302 83.1039229,59.5060476 89.3475568,59.5060476 C101.66139,59.5060476 111.633861,49.4295747 111.633861,36.9855638 C111.633861,24.5415529 101.66139,14.46508 89.3475568,14.46508 C83.7687543,14.46508 76.6290434,17.179087 72.9291122,21.769801 C67.0034412,29.6519703 61.0488644,37.5052673 55.1231934,45.3874366 C54.6028906,46.0515021 53.9669649,46.0803746 53.7068135,45.2142021 C53.0997935,42.5579399 52.8107364,39.8150605 52.8107364,36.9855638 C52.8107364,16.5727663 69.2002753,0 89.4053682,0 C109.610461,0 126,16.5438939 126,36.9855638 C126,57.3983613 109.610461,73.9711276 89.4053682,73.9711276 C80.1266345,73.9711276 71.6861666,70.5064378 65.2690984,64.818572 Z" id="Shape" fill="#3078C0"></path>
+                <path d="M60.7309016,9.18142801 C61.3379215,9.75887632 61.3379215,10.1919625 60.8465244,10.711666 C58.1004818,13.772142 55.8169305,17.2945767 54.1403992,21.1057355 C53.8802478,21.769801 53.0997935,21.8852907 52.5794907,21.27897 C48.532691,17.0924698 42.8960771,14.4939524 36.6524432,14.4939524 C24.3386098,14.4939524 14.366139,24.5704253 14.366139,37.0144362 C14.366139,49.4584471 24.3386098,59.53492 36.6524432,59.53492 C42.2312457,59.53492 49.3709566,56.820913 53.0708878,52.230199 C58.9965588,44.3480297 64.9511356,36.4947327 70.8768066,28.6125634 C71.3971094,27.9484979 72.0330351,27.9196254 72.2931865,28.7857979 C72.9002065,31.4420601 73.1892636,34.1849395 73.1892636,37.0144362 C73.1892636,57.4272337 56.7997247,74 36.5946318,74 C16.3895389,74 0,57.4561061 0,37.0144362 C0,16.6016387 16.3895389,0.0288724151 36.5946318,0.0288724151 C45.8733655,0.0288724151 54.3138334,3.49356223 60.7309016,9.18142801 Z" id="Shape" fill="#FF8080"></path>
+            </g>
+            <path d="M-3.5,137.5 L1024.59534,137.5" id="Line" stroke="#D3D3D3" stroke-linecap="square" opacity="0.5"></path>
+            <path d="M-3.5,237.5 L1024.59534,237.5" id="Line-Copy-4" stroke="#D3D3D3" stroke-linecap="square" opacity="0.5"></path>
+            <path d="M-3.5,295.5 L1024.59534,295.5" id="Line-Copy-5" stroke="#D3D3D3" stroke-linecap="square" opacity="0.5"></path>
+            <rect id="Rectangle-113" fill="#F5F5F5" x="-1" y="238" width="1029" height="57"></rect>
+            <text id="UPLOAD-IMAGES" font-family="Montserrat-Bold, Montserrat" font-size="50" font-weight="bold" letter-spacing="3.53999996" fill="#5F5858">
+                <tspan x="275" y="205">UPLOAD IMAGES</tspan>
+            </text>
+            <text id="PATIENT-NAME-:" font-family="Montserrat-Regular, Montserrat" font-size="20" font-weight="normal" letter-spacing="3.15789461" fill="#354457">
+                <tspan x="64" y="275">PATIENT NAME :</tspan>
+            </text>
+            <text id="PREF-ID-:" font-family="Montserrat-Regular, Montserrat" font-size="20" font-weight="normal" letter-spacing="3.15789461" fill="#354457">
+                <tspan x="719" y="275">PREF ID :</tspan>
+            </text>
+            <text id="Samrendra-Singh" font-family="PTSerif-Italic, PT Serif" font-size="20" font-style="italic" font-weight="normal" line-spacing="23.8000007" letter-spacing="3" fill="#354457">
+                <tspan x="300" y="276">Samrendra Sing</tspan>
+                <tspan x="477.92" y="276">h</tspan>
+            </text>
+            <text id="875AB5" font-family="PTSerif-Italic, PT Serif" font-size="20" font-style="italic" font-weight="normal" line-spacing="23.8000007" letter-spacing="2.13903737" fill="#354457">
+                <tspan x="863" y="276">875AB5</tspan>
+            </text>
+            <g id="Button-Copy" transform="translate(66.000000, 858.000000)">
+                <rect id="Base" fill="#3078C0" x="0" y="0" width="125" height="45" rx="153.00001"></rect>
+                <text id="BACK" font-family="Montserrat-Regular, Montserrat" font-size="16.2000006" font-weight="normal" line-spacing="21.4200015" letter-spacing="1.7326203" fill="#FFFFFF">
+                    <tspan x="37.9549599" y="27.7">BACK</tspan>
+                </text>
+            </g>
+            <rect id="Rectangle-120" fill="#F5F5F5" x="729" y="525" width="210.600144" height="74"></rect>
+            <rect id="Rectangle-120-Copy" fill="#F5F5F5" x="729" y="378" width="210.600144" height="74"></rect>
+            <rect id="Rectangle-120-Copy-2" fill="#F5F5F5" x="729" y="451" width="210.600144" height="74"></rect>
+            <rect id="Rectangle-123" fill="#FFFFFF" x="842" y="452" width="96" height="72"></rect>
+            <rect id="Rectangle-123-Copy" fill="#FFFFFF" x="842" y="525" width="96" height="72"></rect>
+            <text id="X" font-family="Montserrat-Regular, Montserrat" font-size="20" font-weight="normal" line-spacing="21.4200015" letter-spacing="2.13903713" fill="#354457">
+                <tspan x="778" y="499">X</tspan>
+            </text>
+            <text id="Y" font-family="Montserrat-Regular, Montserrat" font-size="20" font-weight="normal" line-spacing="21.4200015" letter-spacing="2.13903713" fill="#354457">
+                <tspan x="779" y="572">Y</tspan>
+            </text>
+            <text id="POINT" font-family="Montserrat-Regular, Montserrat" font-size="16" font-weight="normal" line-spacing="21.4200015" letter-spacing="1.58000004" fill="#354457">
+                <tspan x="863.132" y="418">POIN</tspan>
+                <tspan x="912.204" y="418">T</tspan>
+            </text>
+            <g id="Button-Copy-2" transform="translate(777.000000, 858.000000)">
+                <rect id="Base" fill="#3078C0" x="0" y="0" width="145" height="45" rx="153.00001"></rect>
+                <text id="UPLOAD" font-family="Montserrat-Regular, Montserrat" font-size="16.2000006" font-weight="normal" line-spacing="21.4200015" letter-spacing="1.7326203" fill="#FFFFFF">
+                    <tspan x="35.3639392" y="27.7">UPLOAD</tspan>
+                </text>
+            </g>
+            <g id="Button" transform="translate(753.000000, 663.000000)">
+                <rect id="Base" fill="#50E3C2" x="0" y="0" width="185" height="49" rx="136.000004"></rect>
+                <text id="CHOOSE-IMAGE" font-family="Montserrat-Regular, Montserrat" font-size="15" font-weight="normal" line-spacing="19.0400005" letter-spacing="1.5" fill="#FFFFFF">
+                    <tspan x="22.0075" y="29">CHOOSE IMAGE</tspan>
+                </text>
+            </g>
+            <circle id="Oval-3" fill="#0076FF" opacity="0.351504198" cx="262.5" cy="574.5" r="196.5"></circle>
+        </g>
+    </g>
+</svg>

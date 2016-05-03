@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Report</title>
+<link href="css/riag.css" type="text/css" rel="stylesheet"/>
+    <link href="css/report.css" type="text/css" rel="stylesheet"/>
+	<script src="js/jquery-2.2.0.min.js" type="text/javascript"></script>
+	<script src="js/riag.js" type="text/javascript"></script>
+    <script src="js/report.js" type="text/javascript"></script>
+</head>
+<body>
+	<header class="row">
+
+		<img src="images/kalpah_logo1.png" class="logo" />
+
+    </header>
+    <div class="row">
+		<div class="name_container">
+			<div class="left"><span>PATIENT NAME : </span><label>Bhargav</label></div>
+			<div class="right"><span>PREF ID : </span><label>978456</label></div>
+		</div>
+	</div>
+    <div class="row">
+    	<div class="body_container">
+        	<div id="upload_image">
+        <img src="images/test8.JPG" width="350">
+        </div>
+        <div id="aside">
+        <div>
+        <table>
+        	<tr><td class="highlight values"></td><td class="highlight"><b>FEATURES</b></td></tr>
+            <tr><td class="values">11043</td><td><span>Rim Area</span></td></tr>
+            <tr><td class="values">14808</td><td><span>Disc Area</span></td></tr>
+            <tr><td class="values">108.2</td><td><span>Avg. CDR</span></td></tr>
+            <tr><td class="values">12.2</td><td><span>Horizontal CDR</span></td></tr>
+            <tr><td class="values">1.0</td><td><span>Vertical CDR</span></td></tr>
+        </table>
+        </div>
+        </div>
+    </div>
+    </div>
+    <div class="row">
+    	<div class="body_chart_container">
+        
+    <div style="margin: 10 0 0 50px; float: left;">
+    <label class="isnt_graph">ISNT GRAPH</label>
+    <br />
+	<canvas id="graph" width="380" height="230" style="margin-left:10px;"></canvas>
+</div>
+<div id="pie">
+    <label class="isnt_rule">ISNT RULE</label>
+    <br />
+
+	<svg xmlns="http://www.w3.org/2000/svg" width="320" height="220.0" viewBox="0 0 80 200"
+						>
+
+						<g width="100.0000" height="100.0000" transform="translate(10, 28)">
+							<g transform="rotate(-45 50 50)">
+								<path
+								d="M50.0000,50.0000 A0,0 0 0,0 50.0000,50.0000 L50.0000,10.0000 A40,40 0 0,1 90.0000,50.0000 z"
+								stroke="#fff" stroke-width="2" fill="#2ECC71"></path>
+								<path
+								d="M50.0000,50.0000 A0,0 0 0,0 50.0000,50.0000 L10.0000,50.0000 A40,40 0 0,1 50.0000,10.0000 z"
+								stroke="#fff" stroke-width="2" fill="#2ECC71"></path>
+								<path
+								d="M50.0000,50.0000 A0,0 0 0,0 50.0000,50.0000 L50.0000,90.0000 A40,40 0 0,1 10.0000,50.0000 z"
+								stroke="#fff" stroke-width="2" fill="#FF6F64" data-toggle="tooltip"
+								title="ISNT Rule Violates Here!"></path>
+								<path
+								d="M50.0000,50.0000 A0,0 0 0,0 50.0000,50.0000 L90.0000,50.0000 A40,40 0 0,1 50.0000,90.0000 z"
+								stroke="#fff" stroke-width="2" fill="#2ECC71"></path>
+
+								<text x="45" y="30" font-family="sans-serif" font-weight="bold" fill="white" font-size="13" 
+								transform="rotate(45.0 50 50)">S</text>
+								<text x="30" y="50" font-family="sans-serif" font-weight="bold" 
+								text-anchor="middle" dominant-baseline="middle" fill="white"font-size="13" 
+								transform="rotate(45.0 50 50)">N</text>
+								<text x="46" y="75" font-family="sans-serif" font-weight="bold" font-size="13"  fill="white"
+								transform="rotate(45.0 50 50)">I</text>
+								<text x="70" y="50" font-family="sans-serif" font-weight="bold" fill="white"font-size="13" 
+								text-anchor="middle" dominant-baseline="middle" 
+								transform="rotate(-315.0 50 50)">T</text>
+							</g>
+							<text x="45" y="105" font-family="sans-serif" font-size="13" font-weight="bold" class="isnt_text">10</text>
+							<text x="45" y="5" font-family="sans-serif" font-size="13" font-weight="bold" class="isnt_text">12 </text>
+							<text x="-10" y="55" font-family="sans-serif" font-size="13" font-weight="bold" class="isnt_text"> 44 </text>
+							<text x="90" y="55" font-family="sans-serif" font-size="13" font-weight="bold" class="isnt_text">55 </text>
+						</g>
+
+						
+					</svg>
+ 				
+</div>
+<div id="ddls">
+    <label class="ddls">DDLS</label>
+    <br />
+
+<svg width="200px" height="145px"  version="1.1" viewBox="0 0 125 140"
+					xmlns="http://www.w3.org/2000/svg" 0					xmlns:xlink="http://www.w3.org/1999/xlink"
+					xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+					>
+					<!-- Generator: Sketch 3.3.2 (12043) - http://www.bohemiancoding.com/sketch -->
+					<g transform="translate(0, 50)">
+						<defs></defs>
+						<g id="Page-1" stroke="none" stroke-width="1" fill="none"
+						fill-rule="evenodd" sketch:type="MSPage">
+						<g id="Delete-Button-Copy" sketch:type="MSLayerGroup"
+						transform="translate(8.000000, 5.000000)">
+						<rect rx="0" ry="0" id="Background" fill="#4DC65C"
+						sketch:type="MSShapeGroup" x="0" y="0" width="61.5" height="56"></rect>
+						<text id="Type-something" sketch:type="MSTextLayer"
+						font-family="sans-serif" font-size="18" font-weight="bold"
+						fill="#ffffff">
+						<tspan x="3" y="35">DDLS</tspan>
+					</text>
+				</g>
+				<g class="scale" transform="translate(-25.000000, -11.000000)">
+					<g id="Activity-Icon-(Share-Sheet)-Copy"
+					sketch:type="MSLayerGroup"
+					transform="translate(110.000000, 14.000000)" stroke="green"
+					fill="#FFFFFF">
+					<path
+					d="M20.9185,0 L39.0815,0 C45.105,0 48.116,0 51.3585,1.025 C54.8985,2.3135 57.6865,5.1015 58.975,8.6415 C60,11.8835 60,14.8955 60,20.9185 L60,39.0815 C60,45.105 60,48.116 58.975,51.3585 C57.6865,54.8985 54.8985,57.6865 51.3585,58.9745 C48.116,60 45.105,60 39.0815,60 L20.9185,60 C14.895,60 11.8835,60 8.6415,58.9745 C5.1015,57.6865 2.3135,54.8985 1.025,51.3585 C0,48.116 0,45.105 0,39.0815 L0,20.9185 C0,14.8955 0,11.8835 1.025,8.6415 C2.3135,5.1015 5.1015,2.3135 8.6415,1.025 C11.8835,0 14.895,0 20.9185,0 L20.9185,0"
+					id="Icon-Shape" sketch:type="MSShapeGroup">d</path>
+				</g>
+
+
+				<g id="Notification-Copy" sketch:type="MSLayerGroup"
+				transform="translate(129.000000, 32.000000)">
+				<circle id="Notification-Bubble" fill="#4DC65C"
+				sketch:type="MSShapeGroup" cx="11" cy="11" r="20"></circle>
+				<text id="Number" sketch:type="MSTextLayer"
+				font-family="sans-serif" font-size="24" font-weight="bold"
+				fill="white">
+				<tspan x="5" y="18">4</tspan>
+			</text>
+		</g>
+		<text id="Number" sketch:type="MSTextLayer"
+		font-family="sans-serif" font-size="16" font-weight="260"
+		fill="black">
+		<tspan x="135" y="49"></tspan>
+	</text>
+</g>
+</g>
+</g>
+</svg>
+	</div>
+</div>
+</div>
+<div class="row" style="height:100px;">
+<div class="buttons_container">
+<span class="buttons email"> EMAIL</span>
+<span class="buttons print">PRINT</span>
+</div>
+</div>
+</body>
+</html>

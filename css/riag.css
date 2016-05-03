@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+margin:0;
+padding:0;
+
+font-family:Verdana, Arial, Helvetica, sans-serif;
+}
+
+body{
+background-color:#ffffff;
+width:1200px;
+height:auto;
+margin-left:auto;
+margin-right:auto;
+}
+
+.logo{
+width:100px;
+}
+.row{
+display:block;
+
+width:1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.container{
+margin:10px;
+}
+.image_container{
+height:460px;}
+
+hr{
+  display: block;
+    border-top: 1px solid #CCC8C8;
+}
+header{
+
+}
+
+#title{
+text-align:center;
+font-weight:bold;
+font-size: 30px;
+color:#5F5858;
+}
+
+.name_container{
+background-color:#F5F5F5;
+height:40px;
+display:block;
+letter-spacing:5px;
+font-size:15px;
+}
+
+.left{
+	float:left;
+	margin:10px 50px;
+}
+
+.right{
+	float:right;
+	margin:10px 100px;
+}
+
+.name_container span{
+	font-weight:500;
+	}
+.body_container{
+margin:10px 100px;
+height:330px;
+}
+.body_chart_container{
+margin:10px 100px;
+height:240px;
+}
+button{
+padding:8px 25px;
+display:block;
+border-radius: 50px;
+border:0px;
+color:white;
+font-size:12px;
+cursor:pointer;
+}
+
+.success{
+background-color:#3078C0;
+transition: all .2s ease-in-out;
+}
+.success:hover{
+background-color:#4A637B;
+}
+
+.file_group{
+	margin-top:50px;
+	width:250px;
+}
+
+.file_group button{
+position:absolute;
+margin-left:60px;
+padding:10px 15px;
+background-color:#50E3C2;
+}
+
+.file_group button:hover{
+color:black;
+}
+
+.file_group input[type="file"]{
+	position:absolute;
+	width:125px;
+	margin-left:60px;
+margin-right:auto;
+	padding:8px 8px;
+	opacity:0;
+	
+}
+
+footer{
+height:50px;
+}

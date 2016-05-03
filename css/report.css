@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+#upload_image{
+float:left;
+width:500px;
+}
+#aside{
+float:right;
+width:300px;}
+
+table{
+font-size:15px;
+display:block;
+border-collapse: collapse;
+border:1px solid #f5f5f5;
+}
+
+td{
+width:300px;
+padding:10px;
+text-align:center;
+
+}
+
+.highlight{
+background:#f5f5f5;
+
+border:0px solid black;
+}
+
+.values{
+text-align:left;
+}
+
+#pie{
+float:left;
+}
+
+#ddls{
+float:right;
+}
+
+.body_chart_container label{
+padding: 2px 10px;
+background-color:#1FBAD6;
+}
+
+.isnt_rule{
+margin-left:130px;
+}
+
+.isnt_graph{
+margin-left:130px;
+}
+
+.ddls{
+margin-left:80px;
+}
+
+.buttons_container{
+margin:30px 100px;
+float:right;
+}
+
+.buttons{
+padding:10px 10px 10px 45px;
+background-color:#F5F5F5;
+border:1px solid #E2E2E2;
+border-radius:2px;
+cursor:pointer;
+}
+
+.print{
+background-image: url(../images/print.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+}
+.email{
+background-image: url(../images/email.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
+	background-size: 30px 30px;
+	}
+
+.isnt_text{
+padding:5px;
+background-color:green;
+border-radius:10px;
+}
